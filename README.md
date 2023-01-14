@@ -1,3 +1,31 @@
+# Zadaca 1
+
+1. U vježbi je potrebno definirati polje korisnici unutar stanja (statea) komponente App
+
+2. Unutar stanja (statea) komponente App pored polja korisnici potrebno je definirati proizvoljnu tekstualno svojstvo.
+
+3. Prikazati na ekranu vrijednosti iz stanja (statea), a proizvoljnu vrijednost prikazati preko children propsa.
+
+4. App postaviti na github
+
+[
+    {
+        ime: 'Branko',
+        prezime: 'Branković',
+        dob: 32,
+    },
+    {
+        ime: 'Janko',
+        prezime: 'Janković',
+        dob: 42,
+    },
+    {
+        ime: 'Stanko',
+        prezime: 'Stanković',
+        dob: 52,
+    },
+];
+<!-- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,4 +95,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
